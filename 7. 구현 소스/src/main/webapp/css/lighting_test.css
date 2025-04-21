@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: 'Pretendard-Regular';
+	src:
+		url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff')
+		format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+/* 공통 리셋 */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Pretendard-Regular', sans-serif;
+}
+
+html, body {
+	height: 100%; /* 전체 페이지 높이를 100%로 설정 */
+	font-family: 'Pretendard-Regular';
+}
+
+body {
+	background-color: #fff;
+}
+
+.body {
+	width: 1300px;
+	height: 100%;
+	background-color: #f9f7ff; /* 바탕색 지정 */
+}
+
+/* 기본 버튼 색상(확인 버튼) */
+.button {
+	width: 400px;
+	background-color: #1e62c8;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 1.2rem;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+/* 기본 버튼 호버링 색상 변경 */
+.button:hover {
+	background-color: #1e4ca0;
+}
+
+/* 입력 텍스트 박스 */
+.inputText {
+	border: 1px solid #1e62c8;
+	background-color: #FFF;
+}
+
+/* 모달창 뒤 배경 */
+.modal-background {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.5);
+	display: none;
+	justify-content: center;
+	align-items: center;
+	z-index: 1000;
+}
+
+/* 모달창 */
+.modal-window {
+	position: relative;
+	background: white;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	width: 500px;
+	text-align: center;
+}
+
+/* 글씨 */
+p {
+	font-size: 1.5rem;
+}
+
+/* 강조  */
+span {
+	font-weight: bold;
+	color: #2765c7;
+}
+
+/* 하이퍼링크 색상 */
+a:link {
+	color: #FF0000;
+} /* 방문 전 링크 색상 (기본 파란색) */
+a:visited {
+	color: #FF0000;
+} /* 방문 후 링크 색상 (기본 보라색) */
+a:hover {
+	color: #0000FF;
+} /* 마우스 오버 시 색상 */
+a:active {
+	color: #FF00FF;
+} /* 클릭 중 색상 */
+
+/* 하이퍼링크 밑줄 제거 */
+a {
+	text-decoration: none;
+}

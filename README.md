@@ -14,6 +14,35 @@
 
 회원 정보 관리부터,친구 추가/삭제, 친구차단/해제, 모임 신청·참여 내역, 평가, 탈퇴 등 다양한 기능을 제공하는 마이페이지 기능을 담당하였습니다.  
 
+## 🧯 문제 해결 및 트러블슈팅 (Troubleshooting)
+⭐ 사용자 평가 및 자동 등급 시스템 구현 경험 (STAR 기법 기반)
+
+🟡 S - 상황 (Situation)
+‘오늘어때’는 신뢰 기반의 소셜 모임 플랫폼이지만, 사용자 활동에 대한 신뢰도를 판단할 수 있는 기준이 부족했습니다. 이에 따라 사용자 간 평가와 누적 점수를 기반으로 등급을 자동 산정하는 기능이 요구되었습니다.
+
+🟡 T - 목표 (Task)
+모임 종료 후 사용자 간 별점 평가를 통해 상호 신뢰도를 반영하고, 누적 점수 기반으로 실버~마스터 등급을 자동 부여하는 시스템을 구현하는 것이 목표였습니다.
+
+🟡 A - 행동 (Action)
+평가 테이블에 (모임ID, 평가자ID, 피평가자ID)를 복합 키로 구성하여 중복 평가를 방지하고
+
+평가 평균 점수 기반으로 다음과 같은 등급 자동 산정 로직 구현:
+
+0.0 ~ 2.0 → 🥈 실버  
+2.0 ~ 3.0 → 🥇 골드  
+3.0 ~ 4.0 → 💎 다이아  
+4.0 ~ 5.0 → 👑 마스터
+JSP와 Java Servlet 기반으로 평가 입력 및 등급 뱃지 표시 UI 구현
+
+자기 자신 또는 미참여자에 대한 평가 차단 로직 추가
+
+🟡 R - 결과 (Result)
+등급을 통해 사용자의 모임 활동 신뢰도가 시각화되었고, 모임 신청자의 판단 기준으로 활용됨
+
+사용자 참여 유도 효과를 보았으며, “믿고 만날 수 있는 사람을 찾기 쉬워졌다”는 긍정 피드백 확보
+
+데이터 처리와 사용자 경험을 모두 고려한 기능 구현 능력을 키울 수 있었음
+
 ## 🧩 주요 기능 및 화면 예시
 
 ### ✅ 내가 만든 모임 신청 보기  
@@ -90,6 +119,37 @@ Users can participate in or host gatherings, manage friendships, and build a tru
 
 I was in charge of developing the **My Page** feature, where users can check and update all their information and activity.  
 It includes functionalities such as managing user information, reviewing gathering applications and participation history, evaluations, and account deletion.
+
+## 🧯 Troubleshooting & Problem Solving (STAR Method)
+⭐ Implementing the Member Rating and Auto-Grade System
+
+🟡 S - Situation
+As a trust-based community platform, How About Today needed a way to reflect users' participation quality and reliability. However, there was no clear metric for user activity, leading to the need for a rating and automated grading system.
+
+🟡 T - Task
+After a gathering ends, users should be able to rate each other with stars. Based on the average score, a trust grade (Silver to Master) would be calculated and automatically assigned.
+
+🟡 A - Action
+Designed a dedicated rating table with a composite primary key: (gatheringID, raterID, rateeID) to prevent duplicate ratings
+
+Implemented an automatic grading logic:
+
+mathematica
+
+0.0 ~ 2.0 → 🥈 Silver  
+2.0 ~ 3.0 → 🥇 Gold  
+3.0 ~ 4.0 → 💎 Diamond  
+4.0 ~ 5.0 → 👑 Master
+Connected the backend logic with JSP pages and added dynamic badge display
+
+Added validation to prevent self-rating and non-participant ratings
+
+🟡 R - Result
+Trust grades provided visual cues about user activity levels and helped others make informed decisions when accepting applicants
+
+Increased user engagement and received positive feedback such as “It’s easier to find reliable people”
+
+Strengthened my ability to design logic that connects data reliability with user experience
 
 ## 🧩 Key Features and Screenshots
 

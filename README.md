@@ -77,3 +77,81 @@
 
 - **이름**: 김두현  
 - **GitHub**: [github.com/josephkimmm](https://github.com/josephkimmm)
+
+---
+
+# How About Today - Social Gathering Management Platform
+
+## 📌 Project Overview
+
+**How About Today** is a social gathering platform that recommends meetups based on real-time conditions such as weather, day of the week, and time of day.  
+Users can participate in or host gatherings, manage friendships, and build a trust-based community through mutual evaluations.
+
+## 💼 My Responsibility: My Page
+
+I was in charge of developing the **My Page** feature, where users can check and update all their information and activity.  
+It includes functionalities such as managing user information, reviewing gathering applications and participation history, evaluations, and account deletion.
+
+## 🧩 Key Features and Screenshots
+
+### ✅ View Applications for My Gatherings  
+Check the details of users who applied for your hosted gatherings and accept or reject their applications.  
+![Image](https://github.com/user-attachments/assets/4bea6ba6-6bfb-42c7-beb9-16e30cf149fd)
+
+### ✅ View My Applications  
+Check the status of your gathering applications (Pending, Accepted, Rejected).  
+![Image](https://github.com/user-attachments/assets/e8bc4b19-555e-4ca0-ba55-1f8e59b00723)
+
+### ✅ View My Posts  
+Check the gatherings you've posted, and edit or delete them.  
+![Image](https://github.com/user-attachments/assets/b76026b5-113f-4bf8-b591-041774b432e5)
+
+### ✅ View Bookmarked Gatherings  
+See the list of gatherings you've bookmarked.  
+![Image](https://github.com/user-attachments/assets/8f4cdee1-8721-48b0-9799-eb1b1b839f90)
+
+### ✅ View My Participated Gatherings  
+Check the gatherings you've joined and rejoin if you wish.  
+![Image](https://github.com/user-attachments/assets/3f1635e0-d9fa-4b72-a757-3b5385930050)
+
+### ✅ Edit Profile Information  
+Update details like your name, nickname, active region, and gender.  
+![Image](https://github.com/user-attachments/assets/8438756d-bb2c-4906-a29c-e22ff912942e)
+
+### ✅ Change Profile Picture  
+Upload and change your profile photo.  
+![Image](https://github.com/user-attachments/assets/ca1ef7a3-5e4b-469f-95cd-eb75cde21bc8)
+
+### ✅ Set Profile Visibility  
+Toggle your profile's visibility status between public and private.  
+![Image](https://github.com/user-attachments/assets/e9cf8574-8932-404d-952e-da3fdbd9a363)
+
+### ✅ Manage Applicants and Set Rejection Reasons  
+Approve or reject gathering applicants, and provide a reason for rejection.  
+![Image](https://github.com/user-attachments/assets/54de11ac-0fa0-4da1-a3be-2ce69dbc6d89)  
+![Image](https://github.com/user-attachments/assets/f4c0677d-2164-4d5c-bfcf-e38860b68a6b)
+
+### ✅ Member Rating Feature  
+Rate other members with stars and calculate a cumulative passion grade based on those ratings.  
+![Image](https://github.com/user-attachments/assets/683e56c1-b1fd-4ffa-8868-ce3ed4012f0b)
+
+### ✅ Account Deletion  
+Users can delete their account and leave the platform.  
+![Image](https://github.com/user-attachments/assets/6bb93cbc-d3b7-4c1d-996e-6f14b3b00bfc)
+
+## 🛠️ Tech Stack
+
+| Category       | Technology                             | Description                               |
+|----------------|-----------------------------------------|-------------------------------------------|
+| **Frontend**   | `HTML5`, `CSS3`, `JavaScript`, `JSP`    | UI built using JSP                        |
+| **Backend**    | `Java`, `Servlet`, `JSP`, `JDBC`        | MVC-based server logic                    |
+| **Database**   | `Oracle DB`                             | Stores user and gathering data            |
+| **Web Server** | `Apache Tomcat 9`                       | JSP/Servlet runtime environment           |
+| **Version Control** | `Git`, `GitHub`                   | Version control and collaboration         |
+| **Tool**       | `Eclipse IDE`                           | Development environment tool              |
+
+## 🙋‍♂️ Contributor
+
+- **Name**: Doohyun Kim  
+- **GitHub**: [github.com/josephkimmm](https://github.com/josephkimmm)
+

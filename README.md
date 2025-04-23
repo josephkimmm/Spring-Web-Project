@@ -56,11 +56,11 @@
 
 ### ✅ 회원 평가 기능  
 모임 참여자에게 별점을 주고, 누적 평점으로 열정 등급을 책정합니다.  
-![회원 평가](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90-%ED%8F%89%EA%B0%80.jpg)
+![Image](https://github.com/user-attachments/assets/683e56c1-b1fd-4ffa-8868-ce3ed4012f0b)
 
 ### ✅ 회원 탈퇴  
 회원 스스로 계정을 삭제하고 탈퇴할 수 있습니다.  
-![탈퇴](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%9A%8C%EC%9B%90-%ED%83%88%ED%87%B4.png)
+![Image](https://github.com/user-attachments/assets/6bb93cbc-d3b7-4c1d-996e-6f14b3b00bfc)
 
 ## 🛠️ 사용 기술 스택
 

@@ -23,38 +23,36 @@
 
 ### ✅ 내가 신청한 모임 보기  
 내가 신청한 모임의 승인 상태(대기, 수락, 거절)를 확인할 수 있습니다.  
-![내가 신청한 모임](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%82%B4%EA%B0%80-%EC%8B%A0%EC%B2%AD%ED%95%9C-%EB%AA%A8%EC%9E%84-%ED%98%84%ED%99%A9.png)
+![Image](https://github.com/user-attachments/assets/e8bc4b19-555e-4ca0-ba55-1f8e59b00723)
 
 ### ✅ 내가 작성한 글 보기  
 내가 등록한 모임 게시글을 목록으로 확인하고, 수정하거나 삭제할 수 있습니다.  
-![작성한 글](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%82%B4%EA%B0%80-%EC%9E%91%EC%84%B1%ED%95%9C-%EA%B7%B8-%EB%B3%B4%EA%B8%B0.png)
+![Image](https://github.com/user-attachments/assets/b76026b5-113f-4bf8-b591-041774b432e5)
 
 ### ✅ 내가 찜한 모임 보기  
 관심 있는 모임을 찜해두고 리스트로 확인할 수 있습니다.  
-![찜한 모임](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%82%B4%EA%B0%80%EC%B0%9C%ED%95%9C-%EB%AA%A8%EC%9E%84%EB%B3%B4%EA%B8%B0.png)
+![Image](https://github.com/user-attachments/assets/8f4cdee1-8721-48b0-9799-eb1b1b839f90)
 
 ### ✅ 내가 참여한 모임 보기  
 참여한 모임 목록을 확인하고, 다시 참여할 수 있습니다.  
-![참여한 모임](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%B0%B8%EC%97%AC%ED%95%9C%EB%AA%A8%EC%9E%84.png)
+![Image](https://github.com/user-attachments/assets/3f1635e0-d9fa-4b72-a757-3b5385930050)
 
 ### ✅ 회원 정보 수정  
 이름, 닉네임, 활동지역, 성별 등의 정보를 변경할 수 있습니다.  
-![정보 수정1](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%95.png)  
-![정보 수정2](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4%EC%88%98%EC%A0%952.png)
+![Image](https://github.com/user-attachments/assets/8438756d-bb2c-4906-a29c-e22ff912942e)
 
 ### ✅ 프로필 이미지 변경  
 프로필 사진을 업로드하여 변경할 수 있습니다.  
-![이미지 변경1](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%94%84%EB%A1%9C%ED%95%84%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B3%80%EA%B2%BD.png)  
-![이미지 변경2](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%94%84%EB%A1%9C%ED%95%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%88%98%EC%A0%95.png)
+![Image](https://github.com/user-attachments/assets/ca1ef7a3-5e4b-469f-95cd-eb75cde21bc8)
 
 ### ✅ 공개 여부 설정  
 프로필의 공개/비공개 상태를 전환할 수 있습니다.  
-![공개 여부](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B3%B5%EA%B0%9C%EC%97%AC%EB%B6%80-%EC%84%A4%EC%A0%95.png)
+![Image](https://github.com/user-attachments/assets/e9cf8574-8932-404d-952e-da3fdbd9a363)
 
 ### ✅ 신청자 관리 및 거절 사유 설정  
 신청자의 승인을 관리하고, 거절 이유를 선택하여 안내할 수 있습니다.  
-![거절 사유](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B1%B0%EB%B6%80-%EC%82%AC%EC%9C%A0.png)  
-![거절 처리](8.%20%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B3%90/%EC%BA%A1%EC%B3%90%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B1%B0%EB%B6%80.png)
+![Image](https://github.com/user-attachments/assets/54de11ac-0fa0-4da1-a3be-2ce69dbc6d89)
+![Image](https://github.com/user-attachments/assets/f4c0677d-2164-4d5c-bfcf-e38860b68a6b)
 
 ### ✅ 회원 평가 기능  
 모임 참여자에게 별점을 주고, 누적 평점으로 열정 등급을 책정합니다.  
